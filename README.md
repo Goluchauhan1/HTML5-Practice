@@ -10,6 +10,6 @@
 
 Click on the link to open HTML5-Practice:- https://goluchauhan1.github.io/HTML5-Practice/
 
-Make this theme Using:-#HTML #CSS #BOOTSTRAP #JAVASCRIPT
+Make this theme Using:-#HTML #CSS #BOOTSTRAP
 
 ![design-1](https://github.com/Goluchauhan1/Fruit-Theme/assets/169231998/857f410d-afd6-4db1-b5c5-34cfa20e7bdb)
